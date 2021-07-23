@@ -19,6 +19,7 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="40" width="40" src="https://cdnlogo.com/logos/m/21/microsoft-sql-server.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/42068324?s=280&v=4"></code>
 <br/>
 <br/>
 
