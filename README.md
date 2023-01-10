@@ -11,7 +11,6 @@
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uvjSdCo6VYwgc5rbhjrVxkGyi41FpHZ4hedExWOEuaAotbreXsoBd0LMeP6dDALj3nw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://i2.wp.com/thecodeblogger.com/wp-content/uploads/2019/03/webp.net-resizeimage-2.png?fit=303%2C300&ssl=1"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/42068324?s=280&v=4"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -29,6 +28,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DuongQuocTuan&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
 </p>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=DuongQuocTuan&theme=react-dark&hide_border=true&area=true)
-
